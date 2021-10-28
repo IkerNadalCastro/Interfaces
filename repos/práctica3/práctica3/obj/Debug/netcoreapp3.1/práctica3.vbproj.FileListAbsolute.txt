@@ -1,0 +1,16 @@
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\bin\Debug\netcoreapp3.1\práctica3.exe
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\bin\Debug\netcoreapp3.1\práctica3.deps.json
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\bin\Debug\netcoreapp3.1\práctica3.runtimeconfig.json
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\bin\Debug\netcoreapp3.1\práctica3.runtimeconfig.dev.json
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\bin\Debug\netcoreapp3.1\práctica3.dll
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\bin\Debug\netcoreapp3.1\práctica3.pdb
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\obj\Debug\netcoreapp3.1\práctica3.vbproj.AssemblyReference.cache
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\obj\Debug\netcoreapp3.1\práctica3.Form1.resources
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\obj\Debug\netcoreapp3.1\práctica3.vbproj.GenerateResource.cache
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\obj\Debug\netcoreapp3.1\práctica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\obj\Debug\netcoreapp3.1\práctica3.AssemblyInfoInputs.cache
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\obj\Debug\netcoreapp3.1\práctica3.AssemblyInfo.vb
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\obj\Debug\netcoreapp3.1\práctica3.vbproj.CoreCompileInputs.cache
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\obj\Debug\netcoreapp3.1\práctica3.dll
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\obj\Debug\netcoreapp3.1\práctica3.pdb
+C:\Users\DAM2Alu11\source\repos\práctica3\práctica3\obj\Debug\netcoreapp3.1\práctica3.genruntimeconfig.cache
