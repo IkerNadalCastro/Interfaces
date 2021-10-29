@@ -1,0 +1,15 @@
+C:\Users\DAM2Alu11\source\repos\Font\Font\bin\Debug\netcoreapp3.1\Fuentes.exe
+C:\Users\DAM2Alu11\source\repos\Font\Font\bin\Debug\netcoreapp3.1\Fuentes.deps.json
+C:\Users\DAM2Alu11\source\repos\Font\Font\bin\Debug\netcoreapp3.1\Fuentes.runtimeconfig.json
+C:\Users\DAM2Alu11\source\repos\Font\Font\bin\Debug\netcoreapp3.1\Fuentes.runtimeconfig.dev.json
+C:\Users\DAM2Alu11\source\repos\Font\Font\bin\Debug\netcoreapp3.1\Fuentes.dll
+C:\Users\DAM2Alu11\source\repos\Font\Font\bin\Debug\netcoreapp3.1\Fuentes.pdb
+C:\Users\DAM2Alu11\source\repos\Font\Font\obj\Debug\netcoreapp3.1\Fuentes.Fuentes.resources
+C:\Users\DAM2Alu11\source\repos\Font\Font\obj\Debug\netcoreapp3.1\Fuentes.vbproj.GenerateResource.cache
+C:\Users\DAM2Alu11\source\repos\Font\Font\obj\Debug\netcoreapp3.1\Fuentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAM2Alu11\source\repos\Font\Font\obj\Debug\netcoreapp3.1\Fuentes.AssemblyInfoInputs.cache
+C:\Users\DAM2Alu11\source\repos\Font\Font\obj\Debug\netcoreapp3.1\Fuentes.AssemblyInfo.vb
+C:\Users\DAM2Alu11\source\repos\Font\Font\obj\Debug\netcoreapp3.1\Fuentes.vbproj.CoreCompileInputs.cache
+C:\Users\DAM2Alu11\source\repos\Font\Font\obj\Debug\netcoreapp3.1\Fuentes.dll
+C:\Users\DAM2Alu11\source\repos\Font\Font\obj\Debug\netcoreapp3.1\Fuentes.pdb
+C:\Users\DAM2Alu11\source\repos\Font\Font\obj\Debug\netcoreapp3.1\Fuentes.genruntimeconfig.cache
