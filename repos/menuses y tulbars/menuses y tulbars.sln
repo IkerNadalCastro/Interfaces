@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "menuses y tulbars", "menuses y tulbars\menuses y tulbars.vbproj", "{F6902E86-5ECB-414A-9E95-E2722BA9783F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6902E86-5ECB-414A-9E95-E2722BA9783F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6902E86-5ECB-414A-9E95-E2722BA9783F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6902E86-5ECB-414A-9E95-E2722BA9783F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6902E86-5ECB-414A-9E95-E2722BA9783F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D7A652-CAB1-4FA1-8389-68355B2D53F0}
+	EndGlobalSection
+EndGlobal
