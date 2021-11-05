@@ -1,0 +1,12 @@
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\bin\Debug\Práctica 8.exe.config
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\bin\Debug\Práctica 8.exe
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\bin\Debug\Práctica 8.pdb
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\bin\Debug\Práctica 8.xml
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica 8.vbproj.AssemblyReference.cache
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica_8.Form1.resources
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica_8.Resources.resources
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica 8.vbproj.GenerateResource.cache
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica 8.vbproj.CoreCompileInputs.cache
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica 8.exe
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica 8.xml
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica 8.pdb

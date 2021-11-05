@@ -1,0 +1,12 @@
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\bin\Debug\GestErr.exe.config
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\bin\Debug\GestErr.exe
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\bin\Debug\GestErr.pdb
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\bin\Debug\GestErr.xml
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\obj\Debug\GestErr.vbproj.AssemblyReference.cache
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\obj\Debug\GestErr.Form1.resources
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\obj\Debug\GestErr.Resources.resources
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\obj\Debug\GestErr.vbproj.GenerateResource.cache
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\obj\Debug\GestErr.vbproj.CoreCompileInputs.cache
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\obj\Debug\GestErr.exe
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\obj\Debug\GestErr.xml
+C:\Users\DAM2Alu11\source\repos\GestErr\GestErr\obj\Debug\GestErr.pdb
