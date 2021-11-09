@@ -10,3 +10,5 @@ C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica 8.vb
 C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica 8.exe
 C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica 8.xml
 C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica 8.pdb
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica_8.Hijo.resources
+C:\Users\DAM2Alu11\source\repos\Práctica 8\Práctica 8\obj\Debug\Práctica_8.HijoImagenes.resources
